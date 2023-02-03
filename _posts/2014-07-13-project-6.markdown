@@ -2,10 +2,9 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: cell.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
----
+project-date: March 2020 - March 2024
+client: University of Campinas
+category: PhD researcher
+description: I am a Ph.D. researcher in Cellular Biology and Computational Biology with 4+ years experience with molecular and cellular biology techniques and computational methods to solve biological problems. I have utilized cell culture and mechanistic assays (cell migration, proliferation, DNA damage) combinedwith fluorescence microscopy and repurposing of dyes to discover and screen for biological effects. I am interested in quantitative image analysis applied to large datasets to find disease-related profiles and applying my skills to optimize the development of new therapies for diseases.---
